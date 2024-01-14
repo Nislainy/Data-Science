@@ -1,1 +1,6 @@
-# Data-Science
+# **Sejam todos bem vindos(a),** 
+
+Aqui vocês irão encontrar todos os meus projetos desenvolvidos sobre Data Science. Não esperem  achar materiais voltados para a área de análises de dados, informações sobre insights mediante dados utilizando recursos de análise e visualização de dados, ou seja, uma visão mais voltada para inteligência de negócios (business intelligence), que lidam com geração de insights para decisões e até união dos dados com a experiência e intuição para a resolução de problemas e análise de padrões.
+
+O meu intuito é utilizar algoritmos e Machine Learning para criar modelos estatísticos em busca de resultados preditivos, com bases em previsões para o futuro do negócio. 
+Eu, como cientista de dados, tenho como objetivo explorar e examinar os dados de várias formas e assim quero ter a intenção de identificar novas questões de negócios que podem agregar valor, desenvolver novos métodos analíticos e modelos de aprendizado de máquina (Machine Learning), além de correlacionar conjuntos de dados díspares, conduzir experimentos de causalidade aplicando testes A/B para identificar os problemas e oportunidades de um resultado observado e até mesmo contar uma história por meio de uma visualização de dados.  
